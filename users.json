@@ -1,0 +1,30 @@
+[
+    {
+        "firstName": "michal",
+        "lastName": "choen",
+        "birthDay": "12/1/2003",
+        "employeeStatus": "unEmployed",
+        "age": 21
+    },
+    {
+        "firstName": "sara",
+        "lastName": "levi",
+        "birthDay": "1/4/1977",
+        "employeeStatus": "employed",
+        "age": 45
+    },
+    {
+        "firstName": "efrat",
+        "lastName": "cats",
+        "birthDay": "10/5/2006",
+        "employeeStatus": "employed",
+        "age": 18
+    },
+    {
+        "firstName": "chani",
+        "lastName": "fridman",
+        "birthDay": "7/10/1990",
+        "employeeStatus": "unEmployed",
+        "age": 35
+    }
+]
